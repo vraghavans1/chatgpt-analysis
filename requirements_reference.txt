@@ -1,0 +1,32 @@
+# Requirements Reference for CAC Analysis
+# Note: This is for reference only - package.json/requirements.txt handled separately
+
+# Python Dependencies Required:
+pandas>=1.3.0          # Data manipulation and analysis
+numpy>=1.21.0          # Numerical computations
+plotly>=5.0.0          # Interactive visualizations
+matplotlib>=3.3.0      # Additional plotting capabilities
+
+# For Streamlit Application:
+streamlit>=1.12.0      # Web application framework
+
+# System Requirements:
+# Python 3.7+
+# Modern web browser for viewing HTML visualizations
+
+# Installation Commands (for reference):
+# pip install pandas numpy plotly matplotlib streamlit
+
+# Usage:
+# python cac_analysis_github.py  # Run standalone analysis
+# streamlit run app.py           # Run web application
+
+# Generated Outputs:
+# - cac_trend_analysis.html      # Interactive trend chart
+# - cac_gap_analysis.html        # Gap analysis visualization  
+# - cac_performance_dashboard.html # Comprehensive dashboard
+
+# Verification Details:
+# Email: 22f3002203@ds.study.iitm.ac.in
+# Average CAC: 230.88
+# Target: Optimize digital marketing channels to reach $150 CAC target
