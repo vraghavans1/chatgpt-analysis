@@ -6,7 +6,7 @@
 
 This repository contains a comprehensive analysis of Customer Acquisition Cost (CAC) performance for our financial services company throughout 2024. Our analysis reveals critical insights into rising marketing costs and provides actionable recommendations for digital marketing channel optimization.
 
-## Key Findings
+## Key Findings as below
 
 ### Performance Metrics
 - **Average CAC 2024:** $230.88 (verified calculation)
